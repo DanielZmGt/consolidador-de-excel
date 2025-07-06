@@ -171,5 +171,7 @@ Troubleshooting
 
         Ensure your Excel files are not corrupted or password-protected.
 
+        #This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 

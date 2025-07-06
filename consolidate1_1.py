@@ -1,6 +1,6 @@
 #Recuerda que necesitas tener instalado openpyxl y pandas.
 #Prototipo 1.1 
-#Con amor para Diego Zamudio. de Daniel Zamudio. 
+#Con amor para D. de D. 
 
 import pandas as pd
 import logging

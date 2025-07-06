@@ -1,3 +1,4 @@
+#This project is licensed under the MIT License - see the LICENSE file for details.
 #Recuerda que necesitas tener instalado openpyxl y pandas.
 #Prototipo 1.1 
 #Con amor para D. de D. 

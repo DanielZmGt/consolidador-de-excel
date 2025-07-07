@@ -1,7 +1,7 @@
 Script Consolidator (consolidate1_1.py)
 Resumen
 
-Este script de Python está diseñado para consolidar datos de múltiples archivos Excel (.xlsx) y sus hojas en un único archivo Excel de salida. Limpia los datos eliminando columnas con pocos valores no nulos y filas con pocos valores no nulos, y luego organiza los datos por hoja original en el nuevo archivo consolidado.
+Este script de Python está diseñado para consolidar datos de múltiples archivos Excel (.xlsx) y sus hojas en un único archivo Excel de salida. Limpia los datos eliminando columnas y filas con pocos valores no nulos, y luego organiza los datos por hoja original en el nuevo archivo consolidado. Si el formato de tu archivo excel tiene varias hojas, archivo consolidado mantendrá la misma estructura.
 
 Propósito:
 
